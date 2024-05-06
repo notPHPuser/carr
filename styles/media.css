@@ -1,0 +1,289 @@
+@media (max-width: 1800px) {
+  .all_niz {
+    position: relative;
+    left: -100px;
+  }
+}
+@media (max-width: 1700px) {
+  .all_niz {
+    left: -200px;
+  }
+  .knopki {
+    margin-left: 70px;
+  }
+  .about {
+    left: 230px;
+  }
+  .super_car {
+    font-size: 50px;
+    top: 0px;
+  }
+  .sandbox_car {
+    font-size: 18px;
+  }
+  .text_about {
+    font-size: 18px;
+  }
+  .create_line {
+    height: 190px;
+  }
+  .car {
+    left: 700px;
+  }
+  .photo_car {
+    width: 700px;
+  }
+  .circle {
+    height: 220px;
+    width: 220px;
+    left: 420px;
+  }
+  .buy {
+    left: 240px;
+  }
+  .nazvanie {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1600px) {
+  .all_niz {
+    left: -250px;
+  }
+  .motor_photo {
+    width: 400px;
+    height: 200px;
+  }
+  .about_speed {
+    width: 400px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .motor_photo {
+    left: 1200px;
+  }
+}
+
+@media (max-width: 1440px) {
+  .knopki {
+    margin-left: 50px;
+    left: 400px;
+  }
+  .title {
+    left: 170px;
+  }
+  .about {
+    left: 200px;
+  }
+  .super_car {
+    font-size: 40px;
+    top: 0px;
+  }
+  .sandbox_car {
+    font-size: 15px;
+  }
+  .text_about {
+    font-size: 15px;
+  }
+  .create_line {
+    height: 180px;
+  }
+  .car {
+    left: 600px;
+  }
+  .photo_car {
+    width: 600px;
+  }
+  .circle {
+    height: 200px;
+    width: 200px;
+    left: 350px;
+  }
+  .buy {
+    left: 210px;
+    top: 380px;
+  }
+  .nazvanie {
+    font-size: 18px;
+  }
+  .cena {
+    font-size: 40px;
+  }
+  .but_buy {
+    width: 180px;
+    height: 50px;
+    top: 100px;
+  }
+  .motor_photo {
+    display: none;
+  }
+  .text_speed {
+    position: relative;
+    left: 350px;
+  }
+  .about_speed {
+    position: relative;
+    left: 350px;
+  }
+  .top {
+    position: relative;
+    left: 200px;
+  }
+  .about_top {
+    position: relative;
+    left: 200px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .text_speed,
+  .about_speed {
+    left: 300px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .car {
+    left: 550px;
+  }
+  .photo_car {
+    width: 550px;
+  }
+  .circle {
+    height: 180px;
+    width: 180px;
+    left: 330px;
+  }
+  .text_speed,
+  .about_speed {
+    left: 200px;
+  }
+  .top,
+  .about_top {
+    left: 100px;
+  }
+}
+@media (max-width: 1100px) {
+  .knopki {
+    margin-left: 20px;
+  }
+  .title {
+    left: 120px;
+  }
+  .about {
+    left: 180px;
+  }
+  .super_car {
+    font-size: 35px;
+    top: 10px;
+  }
+  .sandbox_car {
+    font-size: 15px;
+  }
+  .text_about {
+    font-size: 15px;
+    top: 80px;
+  }
+  .create_line {
+    height: 140px;
+  }
+  .car {
+    left: 500px;
+  }
+  .photo_car {
+    width: 450px;
+  }
+  .circle {
+    height: 180px;
+    width: 180px;
+    left: 250px;
+  }
+  .buy {
+    left: 190px;
+    top: 350px;
+  }
+  .nazvanie {
+    font-size: 18px;
+  }
+  .cena {
+    font-size: 40px;
+  }
+  .but_buy {
+    width: 180px;
+    height: 50px;
+    top: 100px;
+  }
+  .text_speed,
+  .about_speed {
+    left: 100px;
+  }
+  .top,
+  .about_top {
+    left: 100px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .top,
+  .about_top {
+    left: 50px;
+  }
+  .text_speed,
+  .about_speed {
+    left: 50px;
+  }
+}
+
+@media (max-width: 950px) {
+  .knopki {
+    left: 300px;
+  }
+  .title {
+    left: 100px;
+  }
+  .about {
+    left: 120px;
+  }
+  .super_car {
+    font-size: 30px;
+    top: 10px;
+  }
+  .sandbox_car {
+    font-size: 15px;
+  }
+  .text_about {
+    font-size: 12px;
+    top: 80px;
+  }
+  .create_line {
+    height: 140px;
+  }
+  .car {
+    left: 400px;
+  }
+  .buy {
+    left: 130px;
+    top: 350px;
+  }
+  .nazvanie {
+    font-size: 18px;
+  }
+  .cena {
+    font-size: 35px;
+    top: 10px;
+  }
+  .but_buy {
+    width: 150px;
+    height: 50px;
+    top: 100px;
+  }
+  .top,
+  .about_top {
+    left: 0px;
+  }
+  .text_speed,
+  .about_speed {
+    left: 0px;
+  }
+}
